@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome!
+
+I'm a Researcher / Professor / Oceanographer🌊 with an interest in climate :earth_asia: and climate repair 🌳. 
+
+I can usually be found using code for data analysis (Julia, Matlab, some Fortran).
 
 <!--
 **mnemoniko/mnemoniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
